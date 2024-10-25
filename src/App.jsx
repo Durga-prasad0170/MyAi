@@ -1,5 +1,5 @@
 import React from 'react'
-import MyAi from './Components/BotBuddy'
+import BotBuddy from './Components/BotBuddy'
 
 const App = () => {
   return (
